@@ -25,7 +25,7 @@ The project consists of an HTML file (`index.html`), a CSS file (`index.css`), a
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AryanMaurya001/Marmeto-Assignment.git
+   git clone https://github.com/AbhiSurve2412/Marmeto-Assesment
 
 
 ## Usage
@@ -36,4 +36,4 @@ The project consists of an HTML file (`index.html`), a CSS file (`index.css`), a
 
 ## Deployment
 
-The project is deployed on Netlify. You can view it at the following link: [https://marmeto-assignment-tan.vercel.app/].
+The project is deployed on Vercel. You can view it at the following link: [https://marmeto-assesment-rho.vercel.app/].
