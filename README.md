@@ -36,4 +36,4 @@ The project consists of an HTML file (`index.html`), a CSS file (`index.css`), a
 
 ## Deployment
 
-The project is deployed on Vercel. You can view it at the following link: [https://marmeto-assesment-rho.vercel.app/].
+The project is deployed on Vercel. You can view it at the following link: [https://marmeto-assesment-khaki.vercel.app/].
